@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Producto 2",
+    "description": "Otro de prueba",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": 50,
+    "id": 2
+  },
+  {
+    "title": "producto prueba",
+    "description": "este es un producto de prueba",
+    "price": 200,
+    "thumbnail": "sin imagen",
+    "code": "CA45CO",
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "title": "Producto 2",
+    "description": "Otro de prueba",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": 50,
+    "id": 2
+  }
+]
